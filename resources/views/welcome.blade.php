@@ -12,16 +12,14 @@
      
     </head>
     <body>
-       <i class="fas fa-address-card" style="font-size: 200px;
-       color: red;"></i>
-       <i class="fal fa-frown"></i>
-       <i class="fas fa-angle-down"></i>
+       
+   <h3>
+     Hello laravel
+   </h3>
 
 
 
-       <i class="fas fa-angle-down"></i>
 
-      <i class="fas fa-camera"></i> 
-
+   <script src="/js/app.js"></script>
     </body>
 </html>
