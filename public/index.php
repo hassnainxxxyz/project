@@ -10,7 +10,7 @@
 <body>
 
 
-
+<script src="./login.js"></script>
 <script type="module">
 
     import obj from "./file.js";
